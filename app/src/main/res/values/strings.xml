@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MusicFinder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="search_title">Term</string>
+    <string name="search_hint">Type term</string>
+
+    <!-- Retrofit exceptions -->
+    <string name="RetrofitError_unable_to_connect">Could not establish connection.</string>
+    <string name="RetrofitError_not_response_back">Not response back from server.</string>
+    <string name="RetrofitError_unauthorized">You are unauthorized to execute this operation.</string>
+    <string name="RetrofitError_resource_not_found">Resource not found.</string>
+    <string name="RetrofitError_internal_server_error">Internal server error. Contac technical support.</string>
+
+    <!-- Track -->
+    <string name="track_albumLabel">Album:\u0020</string>
+    <string name="track_singerLabel">Singer:\u0020</string>
+    <string name="track_trackLabel">Track:\u0020</string>
+    <string name="track_progressBarMessage">Loading data...</string>
+    <string name="track_errorConnectingToServerMessage">Error getting the data. Try again later.</string>
+    <string name="track_noData">No tracks available.</string>
+    <string name="track_noInternetConnection">No tracks information available. The network is not available to fetch tracks.</string>
+    <string name="trackDetail_shared_lyrics">Share</string>
+</resources>
